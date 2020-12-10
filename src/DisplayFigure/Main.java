@@ -70,6 +70,7 @@ public class Main {
                             }
                             break;
                     }
+                    break;
                 case 3:
                     System.out.println("Draw the isosceles triangle ");
                     for (int i = 1; i <= 5; i++) {
